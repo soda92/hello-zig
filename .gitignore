@@ -16,9 +16,9 @@
 *.dylib
 *.dll
 
-# Fortran module files
-*.mod
 *.smod
+*.sum
+*.png
 
 # Compiled Static libraries
 *.lai
